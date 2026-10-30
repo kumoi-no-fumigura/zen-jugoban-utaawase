@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/zen-jugoban-utaawase",
  "yomi": "ぜんじゅうごばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "秀歌撰（十五番歌合）",
+  "era": "寛弘4〜5年（1007〜1008）頃",
+  "author": "撰者 藤原公任",
+  "desc": "藤原公任が、紀貫之と凡河内躬恒から人麻呂と赤人まで、三十人の秀歌一首ずつを十五番に番えた撰歌合。判はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
